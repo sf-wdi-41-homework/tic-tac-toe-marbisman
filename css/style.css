@@ -1,8 +1,12 @@
-#board {
-  margin-top: 10px;
+body{
+  background image: url("images/background-tic-tac-toe.jpg");
 }
 
-.box {
+.box{
   border: 1px solid black;
-  height: 150px;
+  padding: 50px;
+}
+
+#reset{
+  margin: 40px;
 }
